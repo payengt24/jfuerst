@@ -3,8 +3,6 @@
 .DS_STORE/
 
 # React Build Directory
-
-
 # Logs
 logs
 *.log
