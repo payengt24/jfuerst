@@ -3,7 +3,6 @@
 .DS_STORE/
 
 # React Build Directory
-"start": "node server/server.js"
 
 # Logs
 logs
